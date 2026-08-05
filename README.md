@@ -524,10 +524,8 @@ demoblaze-manual-testing
 ---
 
 # 📂 Repository
-
-**GitHub Repository**
-
 https://github.com/muhammed-elgarf/demoblaze-manual-testing
+**GitHub Repository**
 
 ---
 
